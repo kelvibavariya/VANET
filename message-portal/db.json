@@ -1,0 +1,178 @@
+{
+  "vehicles": [
+    {
+      "vehicle": "GJ03TB2341",
+      "x": "76.78",
+      "y": "23.22",
+      "speed": "65",
+      "acc": "9",
+      "heading": "east",
+      "id": 1
+    },
+    {
+      "vehicle": "GJ03PS4356",
+      "x": "44.32",
+      "y": "45.54",
+      "speed": "65",
+      "acc": "5",
+      "heading": "north",
+      "id": 2
+    },
+    {
+      "vehicle": "GJ01XS1234",
+      "x": "76.78",
+      "y": "23.2",
+      "speed": "65",
+      "acc": "6",
+      "heading": "west",
+      "id": 3
+    },
+    {
+      "vehicle": "GJ18RP3468",
+      "x": "35.78",
+      "y": "23.22",
+      "speed": "65",
+      "acc": "9",
+      "heading": "west",
+      "id": 4
+    },
+    {
+      "vehicle": "GJ06QP9743",
+      "x": "95.68",
+      "y": "44.82",
+      "speed": "65",
+      "acc": "2",
+      "heading": "south",
+      "id": 5
+    },
+    {
+      "vehicle": "GJ02TS5656",
+      "x": "35.78",
+      "y": "23.22",
+      "speed": "65",
+      "acc": "4",
+      "heading": "south",
+      "id": 6
+    },
+    {
+      "vehicle": "GJ05JS9656",
+      "x": "35.78",
+      "y": "23.22",
+      "speed": "65",
+      "acc": "4",
+      "heading": "south",
+      "id": 7
+    },
+    {
+      "vehicle": "GJ03TB2341",
+      "x": "35.78",
+      "y": "54.44",
+      "speed": "43",
+      "acc": "7",
+      "heading": "west",
+      "id": 8
+    },
+    {
+      "vehicle": "GJ02AB3341",
+      "x": "44.32",
+      "y": "23.2",
+      "speed": "78",
+      "acc": "2",
+      "heading": "east",
+      "id": 9
+    },
+    {
+      "vehicle": "GJ06OB7945",
+      "x": "76.78",
+      "y": "45.54",
+      "speed": "78",
+      "acc": "9",
+      "heading": "east",
+      "id": 10
+    },
+    {
+      "vehicle": "GJ13YB8543",
+      "x": "44.32",
+      "y": "87.77",
+      "speed": "60",
+      "acc": "2",
+      "heading": "south",
+      "id": 11
+    },
+    {
+      "vehicle": "GJ13BY8741",
+      "x": "44.32",
+      "y": "54.44",
+      "speed": "60",
+      "acc": "4",
+      "heading": "west",
+      "id": 12
+    }
+  ],
+  "messages": [
+    {
+      "sender_id": "GJ01XS1234",
+      "recipient_id": "GJ03TB2341",
+      "message": "nice car",
+      "latitude": "43.4",
+      "longitude": "55.5",
+      "id": 1
+    },
+    {
+      "sender_id": "GJ18RP3468",
+      "recipient_id": "GJ03PS4356",
+      "message": "Is there Petrol pump ahed?",
+      "latitude": "34.76",
+      "longitude": "55.5",
+      "id": 2
+    },
+    {
+      "sender_id": "GJ03PS4356",
+      "recipient_id": "GJ18RP3468",
+      "message": "Yes",
+      "latitude": "40.65",
+      "longitude": "50.55",
+      "id": 3
+    },
+    {
+      "sender_id": "GJ03PS4356",
+      "recipient_id": "GJ18RP3468",
+      "message": "fnsj",
+      "latitude": "40.65",
+      "longitude": "50.55",
+      "id": 4
+    },
+    {
+      "sender_id": "GJ03TB2341",
+      "recipient_id": "GJ02AB3341",
+      "message": "hi",
+      "latitude": "43.4",
+      "longitude": "65.5",
+      "id": 5
+    },
+    {
+      "sender_id": "GJ06OB7945",
+      "recipient_id": "GJ03TB2341",
+      "message": "hello",
+      "latitude": "43.4",
+      "longitude": "54.5",
+      "id": 6
+    },
+    {
+      "sender_id": "GJ13YB8543",
+      "recipient_id": "GJ06OB7945",
+      "message": "i like car",
+      "latitude": "32.4",
+      "longitude": "76.8",
+      "id": 7
+    },
+    {
+      "sender_id": "GJ13YB8543",
+      "recipient_id": "GJ03TB2341",
+      "message": "nice car",
+      "latitude": "32.45",
+      "longitude": "75.8",
+      "id": 8
+    }
+  ]
+}
